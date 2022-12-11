@@ -1,6 +1,7 @@
 # stealerV2
 <h1 align="center">  Stealer Cookie and MORE </h1> 
-<p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/avatars/336981558734880770/d0d33be8a49c183a345c4cf0066d0d2b.png"width="400"> </kbd><br><br>
+<p align= "center"> <kbd> New stealer 
+undetectable </kbd><br><br>
 
 <p></p>
 
